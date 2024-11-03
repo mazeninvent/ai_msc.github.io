@@ -1,4 +1,4 @@
-#Unit 1
+# Unit 1
 
 **Navigating the Generative AI Revolution:** A Global Perspective
 
@@ -62,7 +62,7 @@ In conclusion, the generative AI revolution presents both unprecedented opportun
 
 
 
-Artefact 2
+# Unit 2
 
 **Literature Review Outline:** Usage of Large Language Models (LLMs) in Robotics
 
@@ -207,12 +207,9 @@ Timeline of Proposed Activities
 
 
 ## Conclusion
-
-
-
 Brief on potential findings and significance for robotics and AI fields
 
-Arefact 3
+# Unit 3
 
 Selecting Appropriate Research Methods, Data Collection, and Required Skills for Evaluating Large Language Models in Robotics
 
@@ -334,7 +331,9 @@ Saunders, M., Lewis, P., & Thornhill, A. (2012). Research Methods for Business S
 
 University of Liverpool Academic Skills. (n.d.). Introduction to Research Methods and Methodologies.
 
-Artefact 4
+
+ 
+# Unit 4
 
 **Detailed Outline for Literature Review:** Usage of Large Language Models (LLMs) in Robotics
 
@@ -476,7 +475,7 @@ Complete list of academic references and studies that support the literature rev
 
 
 
-Artefact 5
+# Unit 5
 
 **Case Study:** Inappropriate Use of Surveys
 
@@ -530,7 +529,7 @@ The misuse of surveys for data harvesting, as seen with Cambridge Analytica and 
 
 
 
-Artefact 6
+# Unit 6
 
 6.1-8.1
 
@@ -629,14 +628,20 @@ This suggests that Area 2 respondents show more varied preferences among the lis
 
 
 # Unit 7
+## Literature review
+In the literature review on the use of Large Language Models (LLMs) in robotics, I examined various aspects of how LLMs like GPT-3 and GPT-4 are applied to control robots. Through this work, I gained insights into the underlying mechanisms that allow LLMs to interpret and generate natural language commands that are actionable for robotic systems. Key technical elements, like tokenization and attention mechanisms, highlighted how LLMs break down and understand complex language structures, which is foundational for enabling robots to respond to and execute human instructions.
 
-Literature review
+I learned about the challenges and advancements in integrating LLMs with robotic control systems, such as task planning, knowledge graphs, and embodied knowledge graphs (EKGs). EKGs, in particular, stood out as they enhance the operational safety of robots by integrating factual, structured data, thereby allowing robots to make more reliable and contextually accurate decisions. This deepened my understanding of how knowledge representation in AI supports real-world applications, especially in dynamic environments.
 
-Link.drive
+The review also exposed me to the computational demands of training and deploying LLMs in robotics, where efficient distribution techniques like data parallelism play a crucial role. I appreciated the balance between the technological promise of LLMs and the ethical concerns around safety, reliability, and privacy—issues critical for responsible AI development.
+
+Overall, this literature review allowed me to grasp the current capabilities, challenges, and future research directions of LLMs in robotics, giving me a broader perspective on how advanced AI models are being adapted to meet real-world needs in autonomous and interactive systems.
 
 
 
-Artefact 9 worksheet
+
+
+# Unit 9 worksheet
 
 9.1
 
