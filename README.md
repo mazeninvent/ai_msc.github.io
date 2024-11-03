@@ -66,9 +66,7 @@ In conclusion, the generative AI revolution presents both unprecedented opportun
 
 **Literature Review Outline:** Usage of Large Language Models (LLMs) in Robotics
 
-## Introduction
-
-
+Introduction
 
 Overview of LLMs in robotics, particularly for control systems
 
@@ -126,30 +124,22 @@ Integrating Multimodal Information
 
 Ethical Considerations
 
-## Conclusion
-
-
+Conclusion
 
 Summary of LLMs’ potential in enhancing robot control and interaction
 
 Future outlook and research directions
 
-## References
-
-
+References
 
 Cited works supporting the discussion on LLMs in robotics
 
+
 **Research Proposal Outline:** Evaluating Large Language Models for Robotics
 
-## Introduction
-
-
-
+Introduction
 Definition and capabilities of LLMs (e.g., GPT-4, Claude)
-
 Potential applications and challenges in robotics, particularly in code generation, data analysis, and task planning
-
 Research Problem
 
 
@@ -162,13 +152,9 @@ Research Problem
 
 Research Question
 
-
-
 Primary question on the feasibility of LLMs in solving kinematic problems for humanoids
 
 Aims and Objectives
-
-
 
 **Aim:** Evaluate LLMs’ accuracy and feasibility for forward kinematics and Jacobian calculations
 
@@ -206,8 +192,9 @@ Timeline of Proposed Activities
 
 
 
-## Conclusion
+Conclusion
 Brief on potential findings and significance for robotics and AI fields
+
 
 # Unit 3
 
@@ -337,7 +324,7 @@ University of Liverpool Academic Skills. (n.d.). Introduction to Research Method
 
 **Detailed Outline for Literature Review:** Usage of Large Language Models (LLMs) in Robotics
 
-## Introduction
+Introduction
 
 
 
@@ -457,9 +444,7 @@ Ethical Considerations
 
 **Guidelines for Ethical Application:** Discussion of frameworks and ethical standards for responsible LLM use in robotics.
 
-## Conclusion
-
-
+Conclusion
 
 **Summary of Key Findings:** Recap of the potential applications of LLMs in robotics, particularly in task execution and human-robot interaction.
 
@@ -467,9 +452,7 @@ Ethical Considerations
 
 **Outlook for LLM-driven Robotic Systems:** Future directions for creating more capable, intelligent, and ethical robotic systems integrating LLMs.
 
-## References
-
-
+References
 
 Complete list of academic references and studies that support the literature review topics, including foundational works on LLMs, attention mechanisms, and LLM applications in robotics.
 
@@ -683,7 +666,12 @@ The chart highlights that while the general preference leans towards other brand
 
 
 
-Artefact 10 presentation
+# Unit 10
+In developing this presentation on evaluating Large Language Models (LLMs) for robotics, I delved deeply into both the technical potential and limitations of LLMs in robotics applications. The research highlighted how LLMs like GPT-4 and Claude can assist in code generation, data analysis, and question-answering, yet face specific challenges when applied to complex mathematical tasks in robotics, such as kinematic computations.
 
-Link.drive
+Through this work, I learned how LLMs contribute to human-robot interaction (HRI) by enabling robots to interpret and respond to natural language. However, the research underscored a key gap: while LLMs are excellent at language-based tasks, they struggle with the precision required for tasks like forward kinematics. I explored potential solutions for addressing this gap, including supplementing LLMs with traditional tools like Python’s Robotics Toolbox and Kinviz, which have established reliability in handling robotic kinematics.
+
+A significant takeaway was the possibility of using LLMs as complementary tools rather than standalone solutions in robotics. The project proposed a testing framework using different arm positions on a humanoid robot, where LLMs could be evaluated alongside standard computational methods to gauge accuracy and feasibility. This approach not only allows for a comparative analysis but also brings practical insights into how LLMs might simplify kinematic tasks for engineers who lack specialized software.
+
+I also engaged with ethical considerations, particularly focusing on data integrity, transparency, and physical safety, to ensure that the research maintains both accuracy and ethical standards. Overall, this presentation process helped me understand the nuanced role LLMs can play in robotics, illuminating both the potential for innovation and the need for rigorous evaluation and transparency in deploying these models in high-stakes applications.
 
